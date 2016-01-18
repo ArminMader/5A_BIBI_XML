@@ -9,3 +9,5 @@ Github-Link-Übersicht
 [Celine Lechner](http://github.com/CelineLechner/5A_BIBI_XML) <br/>
 [Armin Mader](http://github.com/ArminMader/5A_BIBI_XML) <br/>
 [Mathias Krivdic](http://github.com/krivdlmath/XML---5ahwi.git) <br/>
+[Johannes Christler](https://github.com/autjojo) <br/>
+[Manuel Kanetscheider](http://manukanne96@bitbucket.org/manukanne96/bibi-5ahwi-xml-kanetscheider.git) <br/>
