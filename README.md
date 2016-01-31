@@ -13,6 +13,9 @@ Github-Link-Übersicht
 * [Mader Armin](https://github.com/ArminMader/5A_BIBI_XML) <br/>
 * [Sparber Daniel](https://gitlab.com/dsparber/5A_BIBI_XML.git) <br/>
 
+### Dropbox Freigabelink:
+[https://www.dropbox.com/sh/9hv7yrvbwgasad4/AACULuiWerWrx4e-QXvJFedSa?dl=0](https://www.dropbox.com/sh/9hv7yrvbwgasad4/AACULuiWerWrx4e-QXvJFedSa?dl=0)
+
 
 
 
