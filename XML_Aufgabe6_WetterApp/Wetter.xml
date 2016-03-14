@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="wetter.xsl"?>
+
+<weatherdata>
+<location>
+<name>Innsbruck</name>
+<type/>
+<country>AT</country>
+<timezone/>
+<location altitude="0" latitude="47.262661" longitude="11.39454" geobase="geonames" geobaseid="0"/>
+</location>
+<credit/>
+<meta>
+<lastupdate/>
+<calctime>0.0028</calctime>
+<nextupdate/>
+</meta>
+<sun rise="2016-03-11T05:33:36" set="2016-03-11T17:15:30"/>
+<forecast>
+<time from="2016-03-11T12:00:00" to="2016-03-11T15:00:00">
+<symbol number="801" name="few clouds" var="02d"/>
+<precipitation/>
+<windDirection deg="21.5033" code="NNE" name="North-northeast"/>
+<windSpeed mps="0.88" name="Calm"/>
+<temperature unit="celsius" value="1.52" min="1.52" max="1.52"/>
+<pressure unit="hPa" value="877.08"/>
+<humidity value="76" unit="%"/>
+<clouds value="few clouds" all="20" unit="%"/>
+</time>
+<time from="2016-03-11T15:00:00" to="2016-03-11T18:00:00">
+<symbol number="800" name="clear sky" var="01n"/>
+<precipitation unit="3h" value="0.022" type="snow"/>
+<windDirection deg="26.0005" code="NNE" name="North-northeast"/>
+<windSpeed mps="0.78" name="Calm"/>
+<temperature unit="celsius" value="-1.15" min="-1.15" max="-1.15"/>
+<pressure unit="hPa" value="878.55"/>
+<humidity value="87" unit="%"/>
+<clouds value="overcast clouds" all="88" unit="%"/>
+</time>
+<time from="2016-03-11T18:00:00" to="2016-03-11T21:00:00">
+<symbol number="600" name="light snow" var="13n"/>
+<precipitation unit="3h" value="0.18" type="snow"/>
+<windDirection deg="37.5" code="NE" name="NorthEast"/>
+<windSpeed mps="0.72" name="Calm"/>
+<temperature unit="celsius" value="-1.77" min="-1.77" max="-1.77"/>
+<pressure unit="hPa" value="879.45"/>
+<humidity value="94" unit="%"/>
+<clouds value="broken clouds" all="68" unit="%"/>
+</time>
+<time from="2016-03-11T21:00:00" to="2016-03-12T00:00:00">
+<symbol number="600" name="light snow" var="13n"/>
+<precipitation unit="3h" value="0.095" type="snow"/>
+<windDirection deg="16.0067" code="NNE" name="North-northeast"/>
+<windSpeed mps="0.34" name="Calm"/>
+<temperature unit="celsius" value="-2.55" min="-2.55" max="-2.55"/>
+<pressure unit="hPa" value="879.19"/>
+<humidity value="97" unit="%"/>
+<clouds value="broken clouds" all="80" unit="%"/>
+</time>
+<time from="2016-03-12T00:00:00" to="2016-03-12T03:00:00">
+<symbol number="600" name="light snow" var="13n"/>
+<precipitation unit="3h" value="0.1" type="snow"/>
+<windDirection deg="16.5003" code="NNE" name="North-northeast"/>
+<windSpeed mps="0.36" name="Calm"/>
+<temperature unit="celsius" value="-2.75" min="-2.75" max="-2.75"/>
+<pressure unit="hPa" value="878.96"/>
+<humidity value="96" unit="%"/>
+<clouds value="broken clouds" all="80" unit="%"/>
+</time>
+<time from="2016-03-12T03:00:00" to="2016-03-12T06:00:00">
+<symbol number="600" name="light snow" var="13d"/>
+<precipitation unit="3h" value="0.11075" type="snow"/>
+<windDirection deg="40.0017" code="NE" name="NorthEast"/>
+<windSpeed mps="0.78" name="Calm"/>
+<temperature unit="celsius" value="-3.17" min="-3.17" max="-3.17"/>
+<pressure unit="hPa" value="879.39"/>
+<humidity value="93" unit="%"/>
+<clouds value="broken clouds" all="56" unit="%"/>
+</time>
+<time from="2016-03-12T06:00:00" to="2016-03-12T09:00:00">
+<symbol number="600" name="light snow" var="13d"/>
+<precipitation unit="3h" value="0.06625" type="snow"/>
+<windDirection deg="40.002" code="NE" name="NorthEast"/>
+<windSpeed mps="0.81" name="Calm"/>
+<temperature unit="celsius" value="-1.45" min="-1.45" max="-1.45"/>
+<pressure unit="hPa" value="879.58"/>
+<humidity value="87" unit="%"/>
+<clouds value="broken clouds" all="68" unit="%"/>
+</time>
+<time from="2016-03-12T09:00:00" to="2016-03-12T12:00:00">
+<symbol number="600" name="light snow" var="13d"/>
+<precipitation unit="3h" value="0.0525" type="snow"/>
+<windDirection deg="27.5015" code="NNE" name="North-northeast"/>
+<windSpeed mps="0.87" name="Calm"/>
+<temperature unit="celsius" value="0.18" min="0.18" max="0.18"/>
+<pressure unit="hPa" value="879.36"/>
+<humidity value="79" unit="%"/>
+<clouds value="broken clouds" all="68" unit="%"/>
+</time>
+<time from="2016-03-12T12:00:00" to="2016-03-12T15:00:00">
+<symbol number="600" name="light snow" var="13d"/>
+<precipitation unit="3h" value="0.13" type="snow"/>
+<windDirection deg="18.0035" code="NNE" name="North-northeast"/>
+<windSpeed mps="0.88" name="Calm"/>
+<temperature unit="celsius" value="-0.2" min="-0.2" max="-0.2"/>
+<pressure unit="hPa" value="879.37"/>
+<humidity value="82" unit="%"/>
+<clouds value="overcast clouds" all="88" unit="%"/>
+</time>
+<time from="2016-03-12T15:00:00" to="2016-03-12T18:00:00">
+<symbol number="600" name="light snow" var="13n"/>
+<precipitation unit="3h" value="0.1925" type="snow"/>
+<windDirection deg="13.0027" code="NNE" name="North-northeast"/>
+<windSpeed mps="0.77" name="Calm"/>
+<temperature unit="celsius" value="-1.61" min="-1.62" max="-1.61"/>
+<pressure unit="hPa" value="880.26"/>
+<humidity value="88" unit="%"/>
+<clouds value="broken clouds" all="80" unit="%"/>
+</time>
+<time from="2016-03-12T18:00:00" to="2016-03-12T21:00:00">
+<symbol number="600" name="light snow" var="13n"/>
+<precipitation unit="3h" value="0.2675" type="snow"/>
+<windDirection deg="12.0006" code="NNE" name="North-northeast"/>
+<windSpeed mps="0.8" name="Calm"/>
+<temperature unit="celsius" value="-2.24" min="-2.25" max="-2.24"/>
+<pressure unit="hPa" value="880.42"/>
+<humidity value="95" unit="%"/>
+<clouds value="broken clouds" all="80" unit="%"/>
+</time>
+<time from="2016-03-12T21:00:00" to="2016-03-13T00:00:00">
+<symbol number="600" name="light snow" var="13n"/>
+<precipitation unit="3h" value="0.1475" type="snow"/>
+<windDirection deg="50.0039" code="NE" name="NorthEast"/>
+<windSpeed mps="0.77" name="Calm"/>
+<temperature unit="celsius" value="-2.43" min="-2.43" max="-2.43"/>
+<pressure unit="hPa" value="880.04"/>
+<humidity value="96" unit="%"/>
+<clouds value="broken clouds" all="80" unit="%"/>
+</time>
+<time from="2016-03-13T00:00:00" to="2016-03-13T03:00:00">
+<symbol number="600" name="light snow" var="13n"/>
+<precipitation unit="3h" value="0.1025" type="snow"/>
+<windDirection deg="42.0033" code="NE" name="NorthEast"/>
+<windSpeed mps="0.83" name="Calm"/>
+<temperature unit="celsius" value="-2.74" min="-2.75" max="-2.74"/>
+<pressure unit="hPa" value="879.77"/>
+<humidity value="96" unit="%"/>
+<clouds value="broken clouds" all="80" unit="%"/>
+</time>
+<time from="2016-03-13T03:00:00" to="2016-03-13T06:00:00">
+<symbol number="600" name="light snow" var="13d"/>
+<precipitation unit="3h" value="0.085" type="snow"/>
+<windDirection deg="63.0013" code="ENE" name="East-northeast"/>
+<windSpeed mps="0.76" name="Calm"/>
+<temperature unit="celsius" value="-3.11" min="-3.11" max="-3.11"/>
+<pressure unit="hPa" value="880.23"/>
+<humidity value="93" unit="%"/>
+<clouds value="broken clouds" all="68" unit="%"/>
+</time>
+<time from="2016-03-13T06:00:00" to="2016-03-13T09:00:00">
+<symbol number="600" name="light snow" var="13d"/>
+<precipitation unit="3h" value="0.045" type="snow"/>
+<windDirection deg="53.0014" code="NE" name="NorthEast"/>
+<windSpeed mps="0.91" name="Calm"/>
+<temperature unit="celsius" value="-0.92" min="-0.92" max="-0.92"/>
+<pressure unit="hPa" value="880.7"/>
+<humidity value="84" unit="%"/>
+<clouds value="scattered clouds" all="32" unit="%"/>
+</time>
+<time from="2016-03-13T09:00:00" to="2016-03-13T12:00:00">
+<symbol number="800" name="clear sky" var="01d"/>
+<precipitation unit="3h" value="0.0025" type="snow"/>
+<windDirection deg="49.5051" code="NE" name="NorthEast"/>
+<windSpeed mps="0.97" name="Calm"/>
+<temperature unit="celsius" value="0.97" min="0.97" max="0.97"/>
+<pressure unit="hPa" value="880.92"/>
+<humidity value="75" unit="%"/>
+<clouds value="broken clouds" all="76" unit="%"/>
+</time>
+<time from="2016-03-13T12:00:00" to="2016-03-13T15:00:00">
+<symbol number="800" name="clear sky" var="01d"/>
+<precipitation unit="3h" value="0.0125" type="snow"/>
+<windDirection deg="38.0008" code="NE" name="NorthEast"/>
+<windSpeed mps="0.86" name="Calm"/>
+<temperature unit="celsius" value="0.65" min="0.65" max="0.65"/>
+<pressure unit="hPa" value="881.25"/>
+<humidity value="81" unit="%"/>
+<clouds value="overcast clouds" all="88" unit="%"/>
+</time>
+<time from="2016-03-13T15:00:00" to="2016-03-13T18:00:00">
+<symbol number="600" name="light snow" var="13n"/>
+<precipitation unit="3h" value="0.175" type="snow"/>
+<windDirection deg="31.5008" code="NNE" name="North-northeast"/>
+<windSpeed mps="0.82" name="Calm"/>
+<temperature unit="celsius" value="-0.87" min="-0.87" max="-0.87"/>
+<pressure unit="hPa" value="882.07"/>
+<humidity value="91" unit="%"/>
+<clouds value="overcast clouds" all="88" unit="%"/>
+</time>
+<time from="2016-03-13T18:00:00" to="2016-03-13T21:00:00">
+<symbol number="600" name="light snow" var="13n"/>
+<precipitation unit="3h" value="0.285" type="snow"/>
+<windDirection deg="32.0008" code="NNE" name="North-northeast"/>
+<windSpeed mps="0.78" name="Calm"/>
+<temperature unit="celsius" value="-1.56" min="-1.57" max="-1.56"/>
+<pressure unit="hPa" value="882.41"/>
+<humidity value="93" unit="%"/>
+<clouds value="overcast clouds" all="88" unit="%"/>
+</time>
+<time from="2016-03-13T21:00:00" to="2016-03-14T00:00:00">
+<symbol number="600" name="light snow" var="13n"/>
+<precipitation unit="3h" value="0.18" type="snow"/>
+<windDirection deg="36.5002" code="NE" name="NorthEast"/>
+<windSpeed mps="0.81" name="Calm"/>
+<temperature unit="celsius" value="-2.17" min="-2.17" max="-2.17"/>
+<pressure unit="hPa" value="882.53"/>
+<humidity value="92" unit="%"/>
+<clouds value="broken clouds" all="68" unit="%"/>
+</time>
+<time from="2016-03-14T00:00:00" to="2016-03-14T03:00:00">
+<symbol number="600" name="light snow" var="13n"/>
+<precipitation unit="3h" value="0.075" type="snow"/>
+<windDirection deg="39.5016" code="NE" name="NorthEast"/>
+<windSpeed mps="0.78" name="Calm"/>
+<temperature unit="celsius" value="-2.95" min="-2.95" max="-2.95"/>
+<pressure unit="hPa" value="881.93"/>
+<humidity value="92" unit="%"/>
+<clouds value="broken clouds" all="80" unit="%"/>
+</time>
+<time from="2016-03-14T03:00:00" to="2016-03-14T06:00:00">
+<symbol number="800" name="clear sky" var="01d"/>
+<precipitation unit="3h" value="0.0275" type="snow"/>
+<windDirection deg="58.5001" code="ENE" name="East-northeast"/>
+<windSpeed mps="0.78" name="Calm"/>
+<temperature unit="celsius" value="-4.29" min="-4.29" max="-4.29"/>
+<pressure unit="hPa" value="882.46"/>
+<humidity value="92" unit="%"/>
+<clouds value="scattered clouds" all="32" unit="%"/>
+</time>
+<time from="2016-03-14T06:00:00" to="2016-03-14T09:00:00">
+<symbol number="800" name="clear sky" var="01d"/>
+<precipitation unit="3h" value="0.0075" type="snow"/>
+<windDirection deg="47.5025" code="NE" name="NorthEast"/>
+<windSpeed mps="0.85" name="Calm"/>
+<temperature unit="celsius" value="-1.62" min="-1.62" max="-1.62"/>
+<pressure unit="hPa" value="883.08"/>
+<humidity value="81" unit="%"/>
+<clouds value="clear sky" all="0" unit="%"/>
+</time>
+<time from="2016-03-14T09:00:00" to="2016-03-14T12:00:00">
+<symbol number="800" name="clear sky" var="01d"/>
+<precipitation/>
+<windDirection deg="33.5018" code="NNE" name="North-northeast"/>
+<windSpeed mps="0.93" name="Calm"/>
+<temperature unit="celsius" value="1.14" min="1.14" max="1.14"/>
+<pressure unit="hPa" value="882.76"/>
+<humidity value="66" unit="%"/>
+<clouds value="clear sky" all="0" unit="%"/>
+</time>
+<time from="2016-03-14T12:00:00" to="2016-03-14T15:00:00">
+<symbol number="800" name="clear sky" var="01d"/>
+<precipitation/>
+<windDirection deg="30.5008" code="NNE" name="North-northeast"/>
+<windSpeed mps="0.91" name="Calm"/>
+<temperature unit="celsius" value="0.95" min="0.95" max="0.95"/>
+<pressure unit="hPa" value="882.24"/>
+<humidity value="67" unit="%"/>
+<clouds value="clear sky" all="0" unit="%"/>
+</time>
+<time from="2016-03-14T15:00:00" to="2016-03-14T18:00:00">
+<symbol number="800" name="clear sky" var="01n"/>
+<precipitation/>
+<windDirection deg="22.0016" code="NNE" name="North-northeast"/>
+<windSpeed mps="0.77" name="Calm"/>
+<temperature unit="celsius" value="-3.32" min="-3.32" max="-3.32"/>
+<pressure unit="hPa" value="882.92"/>
+<humidity value="83" unit="%"/>
+<clouds value="clear sky" all="0" unit="%"/>
+</time>
+<time from="2016-03-14T18:00:00" to="2016-03-14T21:00:00">
+<symbol number="800" name="clear sky" var="01n"/>
+<precipitation/>
+<windDirection deg="99.0003" code="E" name="East"/>
+<windSpeed mps="0.72" name="Calm"/>
+<temperature unit="celsius" value="-6.36" min="-6.36" max="-6.36"/>
+<pressure unit="hPa" value="883.2"/>
+<humidity value="97" unit="%"/>
+<clouds value="clear sky" all="0" unit="%"/>
+</time>
+<time from="2016-03-14T21:00:00" to="2016-03-15T00:00:00">
+<symbol number="800" name="clear sky" var="01n"/>
+<precipitation/>
+<windDirection deg="156.005" code="SSE" name="South-southeast"/>
+<windSpeed mps="0.76" name="Calm"/>
+<temperature unit="celsius" value="-8.05" min="-8.05" max="-8.05"/>
+<pressure unit="hPa" value="882.85"/>
+<humidity value="97" unit="%"/>
+<clouds value="clear sky" all="0" unit="%"/>
+</time>
+<time from="2016-03-15T00:00:00" to="2016-03-15T03:00:00">
+<symbol number="800" name="clear sky" var="01n"/>
+<precipitation unit="3h" value="0.0075" type="snow"/>
+<windDirection deg="158.503" code="SSE" name="South-southeast"/>
+<windSpeed mps="0.76" name="Calm"/>
+<temperature unit="celsius" value="-9.09" min="-9.09" max="-9.09"/>
+<pressure unit="hPa" value="882.45"/>
+<humidity value="96" unit="%"/>
+<clouds value="clear sky" all="0" unit="%"/>
+</time>
+<time from="2016-03-15T03:00:00" to="2016-03-15T06:00:00">
+<symbol number="800" name="clear sky" var="01d"/>
+<precipitation unit="3h" value="0.01" type="snow"/>
+<windDirection deg="170.001" code="S" name="South"/>
+<windSpeed mps="0.78" name="Calm"/>
+<temperature unit="celsius" value="-9.71" min="-9.71" max="-9.71"/>
+<pressure unit="hPa" value="882.49"/>
+<humidity value="96" unit="%"/>
+<clouds value="clear sky" all="8" unit="%"/>
+</time>
+<time from="2016-03-15T06:00:00" to="2016-03-15T09:00:00">
+<symbol number="801" name="few clouds" var="02d"/>
+<precipitation/>
+<windDirection deg="139.004" code="SE" name="SouthEast"/>
+<windSpeed mps="0.52" name="Calm"/>
+<temperature unit="celsius" value="-2.97" min="-2.97" max="-2.97"/>
+<pressure unit="hPa" value="883.1"/>
+<humidity value="81" unit="%"/>
+<clouds value="few clouds" all="12" unit="%"/>
+</time>
+<time from="2016-03-15T09:00:00" to="2016-03-15T12:00:00">
+<symbol number="801" name="few clouds" var="02d"/>
+<precipitation/>
+<windDirection deg="22" code="NNE" name="North-northeast"/>
+<windSpeed mps="0.85" name="Calm"/>
+<temperature unit="celsius" value="1.15" min="1.15" max="1.15"/>
+<pressure unit="hPa" value="883.03"/>
+<humidity value="68" unit="%"/>
+<clouds value="few clouds" all="24" unit="%"/>
+</time>
+<time from="2016-03-15T12:00:00" to="2016-03-15T15:00:00">
+<symbol number="600" name="light snow" var="13d"/>
+<precipitation unit="3h" value="0.045" type="snow"/>
+<windDirection deg="3.5025" code="N" name="North"/>
+<windSpeed mps="0.87" name="Calm"/>
+<temperature unit="celsius" value="0.39" min="0.39" max="0.39"/>
+<pressure unit="hPa" value="882.8"/>
+<humidity value="72" unit="%"/>
+<clouds value="overcast clouds" all="88" unit="%"/>
+</time>
+<time from="2016-03-15T15:00:00" to="2016-03-15T18:00:00">
+<symbol number="600" name="light snow" var="13n"/>
+<precipitation unit="3h" value="0.505" type="snow"/>
+<windDirection deg="348.508" code="NNW" name="North-northwest"/>
+<windSpeed mps="0.76" name="Calm"/>
+<temperature unit="celsius" value="-2.02" min="-2.02" max="-2.02"/>
+<pressure unit="hPa" value="883.24"/>
+<humidity value="86" unit="%"/>
+<clouds value="overcast clouds" all="88" unit="%"/>
+</time>
+<time from="2016-03-15T18:00:00" to="2016-03-15T21:00:00">
+<symbol number="600" name="light snow" var="13n"/>
+<precipitation unit="3h" value="0.735" type="snow"/>
+<windDirection deg="329.501" code="NNW" name="North-northwest"/>
+<windSpeed mps="0.76" name="Calm"/>
+<temperature unit="celsius" value="-3.02" min="-3.02" max="-3.02"/>
+<pressure unit="hPa" value="882.94"/>
+<humidity value="92" unit="%"/>
+<clouds value="overcast clouds" all="92" unit="%"/>
+</time>
+<time from="2016-03-15T21:00:00" to="2016-03-16T00:00:00">
+<symbol number="600" name="light snow" var="13n"/>
+<precipitation unit="3h" value="0.805" type="snow"/>
+<windDirection deg="298.008" code="WNW" name="West-northwest"/>
+<windSpeed mps="0.61" name="Calm"/>
+<temperature unit="celsius" value="-3.4" min="-3.4" max="-3.4"/>
+<pressure unit="hPa" value="882.49"/>
+<humidity value="95" unit="%"/>
+<clouds value="overcast clouds" all="92" unit="%"/>
+</time>
+<time from="2016-03-16T00:00:00" to="2016-03-16T03:00:00">
+<symbol number="600" name="light snow" var="13n"/>
+<precipitation unit="3h" value="0.96" type="snow"/>
+<windDirection deg="299.002" code="WNW" name="West-northwest"/>
+<windSpeed mps="0.51" name="Calm"/>
+<temperature unit="celsius" value="-3.6" min="-3.6" max="-3.6"/>
+<pressure unit="hPa" value="881.3"/>
+<humidity value="93" unit="%"/>
+<clouds value="overcast clouds" all="92" unit="%"/>
+</time>
+<time from="2016-03-16T03:00:00" to="2016-03-16T06:00:00">
+<symbol number="601" name="snow" var="13d"/>
+<precipitation unit="3h" value="1.69" type="snow"/>
+<windDirection deg="313.502" code="NW" name="Northwest"/>
+<windSpeed mps="0.71" name="Calm"/>
+<temperature unit="celsius" value="-3.59" min="-3.59" max="-3.59"/>
+<pressure unit="hPa" value="880.82"/>
+<humidity value="96" unit="%"/>
+<clouds value="overcast clouds" all="92" unit="%"/>
+</time>
+<time from="2016-03-16T06:00:00" to="2016-03-16T09:00:00">
+<symbol number="600" name="light snow" var="13d"/>
+<precipitation unit="3h" value="1.18" type="snow"/>
+<windDirection deg="346.006" code="NNW" name="North-northwest"/>
+<windSpeed mps="0.86" name="Calm"/>
+<temperature unit="celsius" value="-2.04" min="-2.04" max="-2.04"/>
+<pressure unit="hPa" value="880.92"/>
+<humidity value="88" unit="%"/>
+<clouds value="overcast clouds" all="92" unit="%"/>
+</time>
+<time from="2016-03-16T09:00:00" to="2016-03-16T12:00:00">
+<symbol number="600" name="light snow" var="13d"/>
+<precipitation unit="3h" value="0.12" type="snow"/>
+<windDirection deg="1.50067" code="N" name="North"/>
+<windSpeed mps="0.82" name="Calm"/>
+<temperature unit="celsius" value="-0.52" min="-0.52" max="-0.52"/>
+<pressure unit="hPa" value="880.33"/>
+<humidity value="81" unit="%"/>
+<clouds value="broken clouds" all="76" unit="%"/>
+</time>
+</forecast>
+</weatherdata>
